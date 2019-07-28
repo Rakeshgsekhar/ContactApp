@@ -5,4 +5,4 @@ Fake Contact data is taken from uiname.com
 Functionalities
 1. Render the contacts using fetch api.
 2. Delete contacts.
-3. Update contacts.
+3. Update contacts using Flex Modal
